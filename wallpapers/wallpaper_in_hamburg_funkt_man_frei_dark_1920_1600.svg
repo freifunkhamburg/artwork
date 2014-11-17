@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="wallpaper_in_hamburg_funkt_man_frei_dark_1920_1600.svg"
-   inkscape:export-filename="/home/baldo/projects/ffhh/artwork/wallpapers/wallpaper_in_hamburg_funkt_man_frei_dark_1920_1600.png"
+   inkscape:export-filename="/home/baldo/screensaver/wallpaper_in_hamburg_funkt_man_frei_dark_1920_1600.png"
    inkscape:export-xdpi="130"
    inkscape:export-ydpi="130">
   <defs
@@ -72,16 +72,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39010416"
-     inkscape:cx="984.63968"
-     inkscape:cy="686.57365"
+     inkscape:zoom="1.4458333"
+     inkscape:cx="962.12128"
+     inkscape:cy="640.73561"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4756"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="886"
+     inkscape:window-width="1920"
+     inkscape:window-height="1065"
      inkscape:window-x="0"
-     inkscape:window-y="14"
+     inkscape:window-y="15"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4895">
@@ -311,6 +311,11 @@
            id="path3460"
            inkscape:connector-curvature="0" />
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3142"
+         d="m -4634.2944,8586.7929 c 0,205.354 166.4722,371.8262 371.8262,371.8262 205.354,0 371.8262,-166.4722 371.8262,-371.8262 0,-205.354 -166.4722,-371.8262 -371.8262,-371.8262 -205.354,0 -371.8262,166.4722 -371.8262,371.8262 z"
+         style="fill:none;stroke:#e5287a;stroke-width:13.8409338;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
     </g>
   </g>
 </svg>
