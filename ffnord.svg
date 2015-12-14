@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 950 900" style="enable-background:new 0 0 950 900;" xml:space="preserve">
 	 
@@ -15,7 +13,7 @@
 	 
 <g id="Karte">
 	<g id="Regionen">
-			<a xlink:href="https://luebeck.freifunk.net/" xlink:title="Freifunk Lübeck">
+			<a xlink:href="https://luebeck.freifunk.net/" target="_parent" xlink:title="Freifunk Lübeck">
 			<path id="L&#xFC;beck" class="st0" d="
 			M762.989,578.826v-1.75l-8.649-0.5l1.479,3.5l0.49,7.5l-9.15-1.75l-5.43-7.25c0,0,4.94,0,4.94-2.75s-2.721-6.75-2.721-6.75
 			l-3.46,3l-2.97-1l-1.23-5.5l-3.46-2.75l2.721-3.25l5.68-1l5.44-1.25l4.199-3.5l-1.229-1.5l-3.71-0.25l-2.97-1.5
@@ -33,7 +31,7 @@
 			l-2.48-4.5l-5.189,3.5l5.939,5.75l-8.41,5.75l1.24,1.5l-7.17,3l-3.71-1.75l-3.46,3l-1.74-2.75L762.989,578.826z"/>
 			</a>
 			
-			<a xlink:href="https://www.freifunk-lauenburg.de/" xlink:title="Freifunk Herzogtum Lauenburg">
+			<a xlink:href="https://www.freifunk-lauenburg.de/" target="_parent" xlink:title="Freifunk Herzogtum Lauenburg">
 			<path id="Kreis_Herzogtum_Lauenburg" class="st0" d="
 			M784.67,710.006c-0.431,0.04-0.99-0.08-1.41,0c-0.11,0.02-0.811,0.41-0.971,0.479c-0.359,0.141-0.779,0.2-1.119,0.36
 			c-1.841,0.84-2.04,1.35-4.32,1.67c-1.41,0.2-2.78-0.12-4.18,0.12c-0.73,0.68-1.74,3.31-1.94,4.29c-0.36,1.83-0.01,3.56-0.89,5.37
@@ -78,7 +76,7 @@
 			C787.159,709.546,784.8,709.996,784.67,710.006z"/>
 			</a>
 
-			<a xlink:href="https://stormarn.freifunk.net/" xlink:title="Freifunk Stormarn">
+			<a xlink:href="https://stormarn.freifunk.net/" target="_parent" xlink:title="Freifunk Stormarn">
 			<path id="Kreis_Stormarn" class="st0" d="
 			M737.519,571.076l2.97,1l0.08,0.13l-2.06,2.131l-3.84,1.26l-1.2,1.51l-4.33,0.5l-0.48,1.51l1.681,1.5v1.261l-1.681,0.5l-1.92,2.51
 			l1.2,2.51l-0.72,2.771l-7.2,1.25l-0.72,2.01l-4.811-2.76l-0.96-1.761l-1.68-0.25l-3.36,1.261l-6,5.02l1.681,2.26l-2.16,3.021
@@ -107,7 +105,7 @@
 			l2.97,1.5l3.71,0.25l1.229,1.5l-4.199,3.5l-5.44,1.25l-5.68,1l-2.721,3.25l3.46,2.75L737.519,571.076z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Pl&#xF6;n" class="st0" d="
 			M720.319,422.076c0,0,1.75,4.63,2.5,6.13s5,2.25,5,2.25l1.63,1l-0.38,4.37l-1.37,2.38l-7.63-1.88l-5.87,1.94l0.5,3.439l-0.5,3.19
 			l-2.06-1.63c0,0-3.38-1.94-3.69-2.25c-0.31-0.311-0.81-2.37-0.81-2.37l-3.63-1.57l-1.311,1.19l-0.38-0.37l0.94-2.25l-1.12,0.62
@@ -137,7 +135,7 @@
 			c0.49,0,1.48-0.13,2.101-0.729c0.13,0.05,0.279,0.08,0.39,0.1L720.319,422.076z"/>
 			</a>
 			
-			<a xlink:href="http://kiel.freifunk.net/" xlink:title="Freifunk Kiel">
+			<a xlink:href="http://kiel.freifunk.net/" target="_parent" xlink:title="Freifunk Kiel">
 			<path id="Kiel" class="st0" d="
 			M638.699,351.706l-3.88,1.37l-0.75,2.88c0,0,0.63,1.25,0.75,3.62c0.13,2.38,3.13,4.25,3.13,4.25l1.62,2.63v2.12l-1.12,1.5
 			l-1.5-0.62l-0.38,1.87l0.38,2l-0.63,2.13l-2.5,1.37l-1,2.88l-2.62,0.12l-0.88-1.25l-4-1.5l-0.75,3.13l-2.87-0.5l-2.25-1.88
@@ -153,7 +151,7 @@
 			l0.87,3.25l-2.5,1.63l-0.25,1.12l1,1.25l3.88-2.5l0.5,0.75l-0.5,3.13l-1.75,1.37L638.699,351.706z"/>
 			</a>
 		
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Segeberg" class="st0" d="
 			M726.699,522.456l0.73,1.381l-0.23,0.119l-2.38-0.38l-1.37,2.25l-2.13-0.87l-0.62,1.87c0,0-0.13,0.63-1,0.88
 			c-0.88,0.25-1.25,1.87-1.25,1.87l1.5,2l-4,0.25c0,0-2.75,0-3.63,0.38c-0.87,0.37-3.75,0.25-5.37-0.75c-1.63-1-3.13,0.87-4.25,1.12
@@ -183,7 +181,7 @@
 			c-0.75,2.12,1,3.75,1,3.75l2.5,1.87l4,2.13l2.5,3.75l-1,3.25L726.699,522.456z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Neum&#xFC;nster" class="st0" d="
 			M599.699,463.956h0.011l0.109,2.5l-4.5,1.37l-1,2.88l1,0.87l-0.75,1l-3.37-0.37l-2-1.25l-2,0.87l0.5,2c0,0-1.75,2.88-2.75,4
 			c-1,1.13-5.63,0.5-5.63,0.5l-1.75-1.75l-3.62,4.13l-5.27,0.2l1.14-1.83v-5.87l1.25-0.38l0.25-3l0.88-0.25l-0.13-4l-6.87,0.88
@@ -193,7 +191,7 @@
 			c0.63,0.87,1.63,1.25,1.63,1.25l1,2.12l-2.63,1.75l-0.75,2.13l2,0.62l3.5,0.25L599.699,463.956z"/>
 			</a>
 		
-			<a xlink:href="https://pinneberg.freifunk.net/" xlink:title="Freifunk Pinneberg">
+			<a xlink:href="https://pinneberg.freifunk.net/" target="_parent" xlink:title="Freifunk Pinneberg">
 			<path id="Kreis_Pinneberg" class="st0" d="
 			M461.51,635.917l2.46,8.05l2.94,1.08l0.66,1.5l1.95,0.27l0.24-0.87l-3.76-3.97l-2.46-5.49l-0.65-6.91l0.37-1.35l-0.81-0.521
 			l-1.53-5.56l-5.65-10.33l0.43-0.24l5.5-1.25l2.5,1.25l9.25-3l-4.5-13l11-5.25l0.37,1.13l4.25-2.13l1-1.25l4.5-2.75
@@ -208,7 +206,7 @@
 			l-2.81-4.63l0.79-4.771l-0.39-1.869l1.39-0.17l0.41,1.109L461.51,635.917z"/>
 			</a>
 		
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Steinburg" class="st0" d="
 			M455.699,611.576l-0.43,0.24l-0.32-0.58l-5.18-3.53l-4.73-1.93l-3.79-0.63l-3.15-1.479l-4.17-4.37l-2.74-4.03l-0.53-4.93
 			l-2.57-5.971l-1.48-1.72l-0.39-3.35l-5.23-12.061l0.36-1.26l-5.08-5.48l-2.62-1.76l-3.49-1.01l-2.93-4.71l-3.21-2.96l-8-4.97
@@ -225,7 +223,7 @@
 			c-1.37,6-5.25,16.87-5.25,16.87l-4.5,2.75l-1,1.25l-4.25,2.13l-0.37-1.13l-11,5.25l4.5,13l-9.25,3l-2.5-1.25L455.699,611.576z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Rendsburg-Eckernf&#xF6;rde" class="st0" d="
 			M616.949,378.576l0.23-0.07l0.02,0.07l-1,2l-2.12,1.13l-1.13-0.13l-3.25,3.63l1.5,1.37l7,2.13c0,0-0.62,1.75-1.12,2.62
 			c-0.5,0.88,0.37,4.5,0.37,4.5l1,0.88l0.5,2.37l-0.75,1.75l0.5,1.88v2.5l-1.25,2.021c0.301,0.13,0.65,0.33,1.16,0.64
@@ -270,7 +268,7 @@
 			L616.949,378.576z"/>
 			</a>
 		
-			<a xlink:href="http://flensburg.freifunk.net/" xlink:title="Freifunk Flensburg">
+			<a xlink:href="http://flensburg.freifunk.net/" target="_parent" xlink:title="Freifunk Flensburg">
 			<polygon id="Flensburg" class="st0" points="
 			430.449,136.666 431.129,139.146 432.959,141.066 432.769,141.256 430.859,143.256 432.389,147.426 432.879,147.076 
 			433.709,143.456 434.639,142.716 437.329,140.536 437.569,139.956 439.319,135.796 441.159,134.676 446.949,134.306 
@@ -280,7 +278,7 @@
 			425.449,138.576 423.449,136.576 429.699,136.326 430.219,136.116 "/>
 			</a>
 		
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Dithmarschen" class="st0" d="
 			M366.829,342.616c1.05,0.29,2.12,0.53,3.19,0.74c2.88,0.58,0.64,4.26,0.18,5.71l-0.19,0.64c2.26-2.28,4.81-5.2,7.7-1.91
 			c0.13-0.23,0.28-0.59,0.31-0.85c-1.08-2.15,1.34-4.81,0.15-5.34c-4.29-1.9-2.33-5.97,2.11-4.11c1.2,0.5,3.47,3.75,4.75,2.6
@@ -317,7 +315,7 @@
 			c0.13-0.05,0.26-0.1,0.39-0.14c0.28-0.09,0.76-0.19,1.23,0.05L366.829,342.616z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Schleswig-Flensburg" class="st0" d="
 			M584.51,198.786l1.75,5.27l0.83,0.39l2.37,1.12l1.519-0.82l1.42,1.34l-0.42,6.35l0.191,2.76l-0.221,0.01l-2.38-2.75l-1.62,0.75
 			l-1.88-1.38l-3.12,0.75l-3.38,2.13l-1.25-3.38l-2.75-0.5l0.13,2.88l1.25,0.75l-1,1v2l-3.88,0.75l-3-3.25l-0.29-0.14l0.28-0.55
@@ -371,7 +369,7 @@
 			l-3.61-4.94l-1.14-3.28l1.26-4.75l1.93-3.18L480.808,112.146z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Kreis_Nordfriesland" class="st0" d="
 			M247.659,286.506l-5.53,2.12l-1.03-0.62l-0.18-0.99l3.06-0.7L247.659,286.506z M243.189,211.356l-1.3,1.25l-2.43,0.03l-1.21,1.84
 			l-0.14,1.07l1.96,1.72l1.78,0.53l2.03-1.22l1.99-2.99l-1.2-2.38L243.189,211.356z M232.449,247.966l-1.09,1.55l-2.23,0.63
@@ -448,7 +446,7 @@
 			l-0.83-0.81l-2.15,1.86l-3.77,3.25L128.999,193.596z"/>
 			</a>
 			
-			<a xlink:href="https://helgoland.freifunk.net/" xlink:title="Freifunk Helgoland">
+			<a xlink:href="https://helgoland.freifunk.net/" target="_parent" xlink:title="Freifunk Helgoland">
 			<path id="Helgoland" class="st0" d="
 			M22.642,408.623l1.459,2.152c0.66,0.222,1.006,0.16,1.194,0c0.186-0.166,0.754-0.224,1.037-0.194
 			c0.894-0.39,1.271-0.639,1.617-0.611l-0.818-1.513c-1.016-1.026-1.016-1.113-1.429-0.889c-0.41,0.222-0.789,0.446-1.225,0.583
@@ -473,7 +471,7 @@
 			C135.782,431.44,135.782,429.069,135.782,429.069z"/>
 			</a>
 		
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">
 			<path id="Cuxhaven_1_" class="st0" d="
 			M175.505,790.087l-17.054-2.439l-0.368-0.026c0.179-5.242,0.284-11.469,0.284-12.816c0-2.286,1.524-8.254,2.47-10.278
 			c0.893-2.021,0-4.022-0.315-5.473v-0.026l3.495-1.375l0.315-3.529l-1.524-15.595l0.762-4.385l-2.102-10.143l0.836-10.872
@@ -502,7 +500,7 @@
 			L175.505,790.087z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">	
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">	
 			<path id="Stade_1_" class="st0" d="
 			M313.042,561.145l-0.736-0.13l-0.179,0.778l-1.104-0.26v-0.104l-0.289-0.182l-0.841-2.206l11.88-5.813l12.004-3.763l4.467-0.052
 			l3.658,1.035l15.267-0.441l7.752-0.208l6.727,1.168l9.486,1.663l8.199,7.445l3.416,1.637l4.02,8.612l4.625,6.853l1.971,4.071
@@ -529,7 +527,7 @@
 			l-2.365-0.49l-3.39,4.437l-3.153-1.479l-8.908-2.465L313.042,561.145z"/>
 			</a>
 
-			<a xlink:href="https://ffnord.net/" xlink:title="Freifunk Nord">	
+			<a xlink:href="https://ffnord.net/" target="_parent" xlink:title="Freifunk Nord">	
 			<path id="Harburg_1_" class="st0" d="
 			M460.512,766.241l4.985-2.802l1.051-3.76l6.569-5.605l3.445,1.401l-1.048-5.867l3.156-3.967l5.019-0.934l1.043-6.098l7.389,0.234
 			l4.204-2.828h5.019l2.105-3.272h3.177l3.942-5.864l5.019-0.701l4.993,0.467l1.834-1.635l-0.263-5.397l-2.891-2.569l-0.265-6.562
@@ -551,7 +549,7 @@
 			l-2.289-3.609l-0.575-3.788l2.596,0.753l1.839-1.243l-2.105-5.164l-3.915-1.22l-2.357-9.344l-3.731-4.411L460.512,766.241z"/>
 			</a>
 			
-			<a xlink:href="firmware" xlink:title="Freifunk Hamburg">
+			<a xlink:href="/firmware" target="_parent" xlink:title="Freifunk Hamburg">
 			<path id="Hamburg" class="st0" d="
 			M522.85,684.114l1.65,0.136l2.969,1.039l3.156,1.024l2.438,0.563l1.75-0.688l2.138-0.826l0.173-3.937l-17.447-5.494
 			c0,0-6.708-0.082-8.219-1.414l3.731-16.445l1.501,0.5l1.25-3l-2.001-2l5.002-7.249l0.25,6.249l6.503,2.75l-0.75,2l3.001,4.999
@@ -571,7 +569,7 @@
 			l-1.033-0.666l-1.02-0.658l0.657-4.619h3.285l-1.656-4.042l-0.741-1.809l-0.497-1.214l-0.391-0.953L522.85,684.114"/>
 			</a>
 		
-			<a xlink:href="http://ostholstein.freifunk.net/" xlink:title="Freifunk Ostholstein">
+			<a xlink:href="http://ostholstein.freifunk.net/" target="_parent" xlink:title="Freifunk Ostholstein">
 			<path id="Kreis_Ostholstein_1_" class="st0" d="
 			M912.967,311.163l-7.83,2.39l-0.46-1.01l0.58-0.75l1.82,0.05l1.23,0.03l0.78-2.31l-1.889-0.01l-3.281-1.47l-1.84,0.88l-2.41-0.14
 			l-1.73,2.46l0.33,1.3l2.71,1.67l1.45-0.93l-1.859,2.82l-2.25,0.66l-13.5-0.86l-1.12-1.1l-1.161-0.56l-3.41-1.41l-0.83-1.9
@@ -608,7 +606,7 @@
 			l-1.19,0.758"/>
 			</a>
 			
-			<a xlink:href="https://freifunk-malente.de" xlink:title="Freifunk Malente">
+			<a xlink:href="https://freifunk-malente.de" target="_parent" xlink:title="Freifunk Malente">
 			<path id="Malente_2_" class="st0" d="
 			M729.603,431.488l-1.63-1c0,0-4.25-0.75-5-2.25s-2.5-6.13-2.5-6.13l-0.18-0.3c-0.11-0.02-0.26-0.05-0.39-0.1
 			c-0.62,0.6-1.61,0.729-2.101,0.729c-1.25,0-2.61-0.95-1.66-2.319c0.33-0.46,1.21-1.66,1.221-2.221
